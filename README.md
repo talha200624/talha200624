@@ -36,10 +36,10 @@ Trakya Üniversitesi'nde Elektrik-Elektronik Mühendisliği öğrencisiyim. Mode
 
 ### 📊 GitHub İstatistiklerim
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talha200624&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha200624&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Profilimde_Aktif_Kodlama-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Diller-Python_%7C_C%23_%7C_PHP-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 <br>
 
