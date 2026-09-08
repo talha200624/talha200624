@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Merhaba, Ben Talha! 👋</h1>
 
-<!--
-**talha200624/talha200624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Elektrik-Elektronik Mühendisliği Öğrencisi | Oyun Geliştirici | Siber Güvenlik Meraklısı</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Sürekli yeni sistemler inşa etmeyi, donanım ile yazılımı birleştirmeyi ve ağ güvenliklerini test etmeyi seven bir mühendis adayıyım.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### 👨‍💻 Neler Üzerine Çalışıyorum?
+- 🎓 **Trakya Üniversitesi'nde** Elektrik-Elektronik Mühendisliği eğitimime devam ediyorum.
+- 🎮 Şu anda **Unity 6 ve Blender** kullanarak birinci şahıs korku türünde bir oyun geliştiriyorum.
+- 🛒 **Shopify ve eBay** e-ticaret süreçlerini optimize etmek için API entegrasyonları ve otomasyon betikleri yazıyorum.
+- 🔐 **Siber güvenlik ve sızma testleri (penetration testing)** alanında kendimi geliştiriyor, çeşitli test ortamlarında çalışıyorum.
+- 🐧 Aktif bir **Fedora Linux** kullanıcısıyım ve terminal ortamında vakit geçirmeyi seviyorum.
+
+<br/>
+
+### 🛠️ Teknolojiler ve Araçlar
+
+**Oyun Geliştirme & Tasarım:**  
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+**Yazılım, Komut Dosyaları & OS:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+
+**Siber Güvenlik & Ağ:**  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) 
+![Networking](https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=white)
+
+<br/>
+
+### 📊 GitHub İstatistiklerim
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINI_BURAYA_YAZ&show_icons=true&theme=radium&hide_border=true" height="150" alt="İstatistikler"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINI_BURAYA_YAZ&layout=compact&theme=radium&hide_border=true" height="150" alt="Diller"/>
+</div>
+
+<br/>
+
+### 📫 Bana Ulaşın
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/LINKEDIN_KULLANICI_ADIN/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EPOSTA_ADRESINI_BURAYA_YAZ)
