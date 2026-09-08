@@ -1,42 +1,66 @@
-<h1 align="center">Merhaba, Ben Talha! 👋</h1>
+# Merhaba, Ben Talha Abacı! 👋
 
-<h3 align="center">Elektrik-Elektronik Mühendisliği Öğrencisi | Oyun Geliştirici | Siber Güvenlik Meraklısı</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27D742&width=435&lines=Elektrik-Elektronik+Mühendisliği;Yazılım+Geliştirici;Siber+Güvenlik+Meraklısı;Otomasyon+ve+Sistem+Yöneticisi" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  Sürekli yeni sistemler inşa etmeyi, donanım ile yazılımı birleştirmeyi ve ağ güvenliklerini test etmeyi seven bir mühendis adayıyım.
+Trakya Üniversitesi'nde Elektrik-Elektronik Mühendisliği öğrencisiyim. Modern yazılım çözümleri üretiyor, süreçleri otomatize ediyor ve sistemlerin arka planındaki güvenlik yapılarıyla ilgileniyorum. Geliştirdiğim projelere "güvenlik odaklı" (security-first) bir bakış açısıyla yaklaşıyorum.
+
+### 🚀 Neler Yapıyorum?
+- 💻 Python ve C# ile otomasyon senaryoları ve yazılım araçları geliştiriyorum.
+- 🌐 PHP ve MySQL kullanarak güvenli web tabanlı sistemler inşa ediyorum.
+- 🐧 Linux sistem yönetimi, ağ yapılandırmaları ve CTF (TryHackMe/OverTheWire) çözümleri üzerine çalışıyorum.
+- 🎮 Unity 6 ile bağımsız oyun mekanikleri tasarlıyorum.
+
+---
+
+### 🛠️ Teknoloji ve Araç Çantam
+
+**💻 Yazılım ve Geliştirme**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
-<br/>
+**🛡️ Siber Güvenlik ve Sistem**
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali-3276AE?style=for-the-badge&logo=kali-linux&logoColor=white" />
+</p>
 
-### 👨‍💻 Neler Üzerine Çalışıyorum?
-- 🎓 **Trakya Üniversitesi'nde** Elektrik-Elektronik Mühendisliği eğitimime devam ediyorum.
-- 🎮 **Unity 6 ve Blender** kullanarak birinci şahıs korku türünde bir oyun geliştirmekle uğraştım.
-- 🛒 **Shopify ve eBay** e-ticaret süreçlerini optimize etmek için API entegrasyonları ve otomasyon betikleri yazıyorum.
-- 🔐 **Siber güvenlik ve sızma testleri (penetration testing)** alanında kendimi geliştiriyor, çeşitli test ortamlarında çalışıyorum.
-- 🐧 Aktif bir **Fedora Linux** kullanıcısıyım ve terminal ortamında vakit geçirmeyi seviyorum.
+---
 
-<br/>
+### 📊 GitHub İstatistiklerim
 
-### 🛠️ Teknolojiler ve Araçlar
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-**Oyun Geliştirme & Tasarım:**  
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+<br>
 
-**Yazılım, Komut Dosyaları & OS:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+<div align="center">
+  <a href="https://tryhackme.com/p/KULLANICI_ADIN">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/KULLANICI_ADIN.png" alt="TryHackMe" />
+  </a>
+</div>
 
-**Siber Güvenlik & Ağ:**  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) 
-![Networking](https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=white)
-
-<br/>
-
-<br/>
+---
 
 ### 📫 Bana Ulaşın
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-abaci-600767434/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:critic200624@proton.me)
+
+<p align="left">
+  <a href="https://linkedin.com/in/LINKIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:E_POSTA_ADRESIN">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://fiverr.com/KULLANICI_ADIN">
+    <img src="https://img.shields.io/badge/Fiverr-00B22D?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+</p>
