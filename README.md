@@ -34,10 +34,6 @@ Trakya Üniversitesi'nde Elektrik-Elektronik Mühendisliği öğrencisiyim. Mode
 
 ---
 
-<br>
-
----
-
 ### 📫 Bana Ulaşın
 
 <p align="left">
