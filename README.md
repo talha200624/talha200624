@@ -35,13 +35,6 @@
 
 <br/>
 
-### 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINI_BURAYA_YAZ&show_icons=true&theme=radium&hide_border=true" height="150" alt="İstatistikler"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINI_BURAYA_YAZ&layout=compact&theme=radium&hide_border=true" height="150" alt="Diller"/>
-</div>
-
 <br/>
 
 ### 📫 Bana Ulaşın
