@@ -37,30 +37,21 @@ Trakya Üniversitesi'nde Elektrik-Elektronik Mühendisliği öğrencisiyim. Mode
 ### 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talha200624&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha200624&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
-
-<div align="center">
-  <a href="https://tryhackme.com/p/KULLANICI_ADIN">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/KULLANICI_ADIN.png" alt="TryHackMe" />
-  </a>
-</div>
 
 ---
 
 ### 📫 Bana Ulaşın
 
 <p align="left">
-  <a href="https://linkedin.com/in/LINKIN">
+  <a href="https://linkedin.com/in/talha-abaci-600767434">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:E_POSTA_ADRESIN">
+  <a href="mailto:critic200624@proton.me">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://fiverr.com/KULLANICI_ADIN">
-    <img src="https://img.shields.io/badge/Fiverr-00B22D?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
 </p>
