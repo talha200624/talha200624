@@ -10,7 +10,7 @@
 
 ### 👨‍💻 Neler Üzerine Çalışıyorum?
 - 🎓 **Trakya Üniversitesi'nde** Elektrik-Elektronik Mühendisliği eğitimime devam ediyorum.
-- 🎮 Şu anda **Unity 6 ve Blender** kullanarak birinci şahıs korku türünde bir oyun geliştiriyorum.
+- 🎮 **Unity 6 ve Blender** kullanarak birinci şahıs korku türünde bir oyun geliştirmekle uğraştım.
 - 🛒 **Shopify ve eBay** e-ticaret süreçlerini optimize etmek için API entegrasyonları ve otomasyon betikleri yazıyorum.
 - 🔐 **Siber güvenlik ve sızma testleri (penetration testing)** alanında kendimi geliştiriyor, çeşitli test ortamlarında çalışıyorum.
 - 🐧 Aktif bir **Fedora Linux** kullanıcısıyım ve terminal ortamında vakit geçirmeyi seviyorum.
