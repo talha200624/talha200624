@@ -34,13 +34,6 @@ Trakya Üniversitesi'nde Elektrik-Elektronik Mühendisliği öğrencisiyim. Mode
 
 ---
 
-### 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Profilimde_Aktif_Kodlama-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Diller-Python_%7C_C%23_%7C_PHP-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
 <br>
 
 ---
