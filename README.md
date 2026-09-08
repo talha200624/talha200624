@@ -1,7 +1,7 @@
 # Merhaba, Ben Talha Abacı! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27D742&width=435&lines=Elektrik-Elektronik+Mühendisliği;Yazılım+Geliştirici;Siber+Güvenlik+Meraklısı;Otomasyon+ve+Sistem+Yöneticisi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27D742&width=435&lines=Elektrik-Elektronik+Mühendisliği;Yazılım+Geliştirici;Siber+Güvenlik;Otomasyon+ve+Sistem+Yöneticisi" alt="Typing SVG" />
 </div>
 
 Trakya Üniversitesi'nde Elektrik-Elektronik Mühendisliği öğrencisiyim. Modern yazılım çözümleri üretiyor, süreçleri otomatize ediyor ve sistemlerin arka planındaki güvenlik yapılarıyla ilgileniyorum. Geliştirdiğim projelere "güvenlik odaklı" (security-first) bir bakış açısıyla yaklaşıyorum.
